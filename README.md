@@ -1,2 +1,2 @@
-# git-conflicts
+Remote
 Quelques lignes.
