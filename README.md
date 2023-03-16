@@ -1,2 +1,2 @@
-# git-conflicts
+Local
 Quelques lignes.
