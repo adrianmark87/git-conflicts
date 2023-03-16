@@ -1,1 +1,2 @@
 # git-conflicts
+Quelques lignes.
