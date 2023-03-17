@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 Local
 Quelques lignes.
